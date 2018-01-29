@@ -1,0 +1,10 @@
+d:\dotcore\corefeatures\bin\Debug\netcoreapp2.0\corefeatures.deps.json
+d:\dotcore\corefeatures\bin\Debug\netcoreapp2.0\corefeatures.runtimeconfig.json
+d:\dotcore\corefeatures\bin\Debug\netcoreapp2.0\corefeatures.runtimeconfig.dev.json
+d:\dotcore\corefeatures\bin\Debug\netcoreapp2.0\corefeatures.dll
+d:\dotcore\corefeatures\bin\Debug\netcoreapp2.0\corefeatures.pdb
+d:\dotcore\corefeatures\obj\Debug\netcoreapp2.0\corefeatures.csproj.CoreCompileInputs.cache
+d:\dotcore\corefeatures\obj\Debug\netcoreapp2.0\corefeatures.AssemblyInfoInputs.cache
+d:\dotcore\corefeatures\obj\Debug\netcoreapp2.0\corefeatures.AssemblyInfo.cs
+d:\dotcore\corefeatures\obj\Debug\netcoreapp2.0\corefeatures.dll
+d:\dotcore\corefeatures\obj\Debug\netcoreapp2.0\corefeatures.pdb

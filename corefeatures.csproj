@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <DebugType>portable</DebugType>
+    <AssemblyName>corefeatures</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <PackageId>corefeatures</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="runtime.native.System.Data.SqlClient.sni" Version="4.4.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.1.0" />
+  </ItemGroup>
+
+</Project>
